@@ -76,8 +76,8 @@
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[StandTrack](https://github.com/mohamed-ounissi/StandTrack)** — [live demo](https://stand-track.vercel.app) | Daily standup companion that lets developers log tasks, blockers and questions, with dynamic meeting times, email reminders and auto-formatted summaries. | TypeScript, Next.js, Node.js |
-| **School administration platform** — [demo](https://www.youtube.com/watch?v=snkmWytzOWc) | Microservices-based school management app with automatic timetable generation using OptaPlanner, containerized and deployed through a GitLab CI/CD pipeline. | Angular, Spring Boot, PostgreSQL, Docker |
-| **ASETAP** — [demo](https://www.youtube.com/watch?v=eJkak_rYYIM) | Management application for a sports association, built end to end as my bachelor's final project. | React, Express, MongoDB |
+| **School administration platform** — [demo](https://www.youtube.com/watch?v=eJkak_rYYIM) | Microservices-based school management app with automatic timetable generation using OptaPlanner, containerized and deployed through a GitLab CI/CD pipeline. | Angular, Spring Boot, PostgreSQL, Docker |
+| **ASETAP** — [demo](https://www.youtube.com/watch?v=snkmWytzOWc) | Management application for a sports association, built end to end as my bachelor's final project. | React, Express, MongoDB |
 | **[Morbiket WebAR](https://github.com/mohamed-ounissi/MorbiketFinalProduct)** | Platform for creating augmented reality experiences in the browser. | React, A-Frame, AR.js, Three.js |
 | **[React Native app](https://github.com/mohamed-ounissi/React-native-project)** | Mobile app with modular authentication, tab navigation and a scalable structure for API-driven dashboards. | React Native, Expo, TypeScript |
 
