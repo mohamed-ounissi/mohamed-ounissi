@@ -33,16 +33,14 @@ Beyond day-to-day product work I have built microservice architectures with Spri
 Boot, containerized applications with Docker, and set up CI/CD pipelines with
 GitLab CI. I work in Agile / Scrum teams and care about clean, readable code.
 
-|  |  |
-| --- | --- |
-| **Focus** | Full-stack web development · TypeScript · testing · clean architecture |
-| **Education** | Software engineering degree — Higher Institute of Multimedia Arts of Manouba (ISAMM) |
-| **Languages** | Arabic (native) · English (fluent) · French (intermediate) |
-| **Open to** | Full-stack roles and collaboration on interesting products |
+**Focus:** Full-stack web development · TypeScript · testing · clean architecture  
+**Education:** Software engineering degree — Higher Institute of Multimedia Arts of Manouba (ISAMM)  
+**Languages:** Arabic (native) · English (fluent) · French (intermediate)  
+**Open to:** Full-stack roles and collaboration on interesting products
 
 ## Tech stack
 
-| | |
+| Category | Tools |
 | --- | --- |
 | **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
@@ -110,12 +108,12 @@ structure for API-driven dashboards and list/detail screens.
 
 **Experience**
 
-- **Rooly(Software Engineer)** (Oct 2025 – Present) — full-stack web development with Next.js and NestJS, Tailwind CSS, automated testing (Jest, Vitest, Playwright) and Swagger-documented APIs, in an Agile / Scrum team.
+- **Software Engineer** (Oct 2025 – Present) — full-stack web development with Next.js and NestJS, Tailwind CSS, automated testing (Jest, Vitest, Playwright) and Swagger-documented APIs, in an Agile / Scrum team.
 - **ST2i** — end-of-studies project (Feb 2025 – Jun 2025) — microservices-based school administration app with Angular and Spring Boot, PostgreSQL, OptaPlanner timetable generation, Docker and GitLab CI/CD.
 - **SE Bordnetze El Fejja** — web development and DevOps intern (Jul 2024 – Aug 2024) — internal team management platform with React, Express and Sequelize on SQL Server, containerized with Docker and analyzed with SonarQube.
 - **Morbiket** — web and AR development intern (Jul 2023 – Aug 2023) — browser-based augmented reality builder using React, A-Frame, AR.js and Three.js, with Node.js, Express and MongoDB on the backend.
 - **Tunisian Company of Petroleum Activities** — end-of-studies project (Feb 2022 – Jun 2022) — sports association management app **ASETAP** with React, Node.js, Express and MongoDB.
-- 
+
 **Education**
 
 - Software engineering degree — Higher Institute of Multimedia Arts of Manouba (2022–2025)
