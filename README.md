@@ -110,10 +110,11 @@ structure for API-driven dashboards and list/detail screens.
 
 **Experience**
 
-- Software Engineer — full-stack web development with Next.js and NestJS, Tailwind CSS, automated testing and Swagger-documented APIs, in an Agile / Scrum team.
-- Web development and DevOps intern — internal team management platform with React, Express and Sequelize on SQL Server, containerized with Docker and analyzed with SonarQube.
-- Web and AR development intern — browser-based augmented reality builder using React, A-Frame, AR.js and Three.js.
-
+- **Rooly(Software Engineer)** (Oct 2025 – Present) — full-stack web development with Next.js and NestJS, Tailwind CSS, automated testing (Jest, Vitest, Playwright) and Swagger-documented APIs, in an Agile / Scrum team.
+- **ST2i** — end-of-studies project (Feb 2025 – Jun 2025) — microservices-based school administration app with Angular and Spring Boot, PostgreSQL, OptaPlanner timetable generation, Docker and GitLab CI/CD.
+- **SE Bordnetze El Fejja** — web development and DevOps intern (Jul 2024 – Aug 2024) — internal team management platform with React, Express and Sequelize on SQL Server, containerized with Docker and analyzed with SonarQube.
+- **Morbiket** — web and AR development intern (Jul 2023 – Aug 2023) — browser-based augmented reality builder using React, A-Frame, AR.js and Three.js, with Node.js, Express and MongoDB on the backend.
+- **Tunisian Company of Petroleum Activities** — end-of-studies project (Feb 2022 – Jun 2022) — sports association management app **ASETAP** with React, Node.js, Express and MongoDB.
 **Education**
 
 - Software engineering degree — Higher Institute of Multimedia Arts of Manouba (2022–2025)
