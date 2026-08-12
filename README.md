@@ -83,13 +83,16 @@
 
 ---
 
-## GitHub stats
+## GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamed-ounissi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ounissi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img height="180" src="https://streak-stats.demolab.com/?user=mohamed-ounissi&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed-ounissi&theme=tokyonight" alt="Profile details"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamed-ounissi&theme=tokyonight" alt="Top languages"/>
+</p>
 ---
 
 <p align="center">
