@@ -57,7 +57,7 @@ I like turning unclear requirements into shipped features, and I treat tests and
 An assistant for auto-service support agents that answers from real data instead of guessing.
 
 - **Tool calling** — asks about a ticket, and the model looks up the actual record in MongoDB.
-- **RAG** — diagnostic-code and policy answers come from a knowledge base in MongoDB Atlas Vector Search, with the source doc cited.
+- **RAG** — retrieves relevant diagnostic-code and policy context from MongoDB Atlas Vector Search and generates answers with cited source documents.
 - **Structured output** — one click turns a ticket into a schema-validated summary.
 - **Multi-provider, measured** — Groq, Gemini and OpenRouter behind one interface, benchmarked on 10 fixed questions. Groq scored 10/10 at ~1.4 s per answer and became the default.
 
