@@ -1,12 +1,11 @@
 <h1 align="center">Mohamed Ounissi</h1>
 
 <p align="center">
-  <b>Software Engineer</b> · Full-Stack Web Development
+  <b>Full-Stack Software Engineer</b> · Next.js · NestJS · AI-integrated apps
 </p>
 
 <p align="center">
-  I build responsive, scalable and well-tested web applications,<br/>
-  mostly with TypeScript on both ends of the stack.
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1400&color=7AA2F7&center=true&vCenter=true&width=600&lines=I+build+production-ready+web+apps+in+TypeScript;Streaming+AI+chat%2C+tool+calling+and+RAG;Tested%2C+documented+and+shipped" alt="I build production-ready web apps in TypeScript"/>
 </p>
 
 <p align="center">
@@ -22,25 +21,88 @@
   <img src="https://img.shields.io/badge/Tunis,%20Tunisia-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
-## About
+## What I do
 
-Full-stack engineer working mainly with **Next.js** and **NestJS**. I like turning
-unclear requirements into shipped features, and I treat tests and documentation as
-part of the work rather than an afterthought — Jest on the backend, Vitest and
-Playwright on the frontend, REST APIs documented with Swagger.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Full-stack products</b><br/>
+      Next.js and NestJS applications from UI to API, TypeScript end to end, with MongoDB or PostgreSQL behind them.
+    </td>
+    <td width="33%" valign="top">
+      <b>AI features that hold up</b><br/>
+      Streaming LLM chat, tool calling, structured output and RAG with vector search — measured with evals, not picked on reputation.
+    </td>
+    <td width="33%" valign="top">
+      <b>Quality and delivery</b><br/>
+      Jest, Vitest and Playwright tests, Swagger-documented APIs, Docker and CI/CD pipelines.
+    </td>
+  </tr>
+</table>
 
-Beyond day-to-day product work I have built microservice architectures with Spring
-Boot, containerized applications with Docker, and set up CI/CD pipelines with
-GitLab CI. I work in Agile / Scrum teams and care about clean, readable code.
+I like turning unclear requirements into shipped features, and I treat tests and documentation as part of the work rather than an afterthought. I work in Agile / Scrum teams and care about clean, readable code.
 
-Lately I've been building AI features into full-stack apps: streaming LLM chat,
-tool calling, structured output, and RAG with vector search — and measuring
-providers against each other instead of picking one on reputation.
-
-**Focus:** Full-stack web development · TypeScript · AI-integrated apps (LLMs, RAG) · testing · clean architecture  
 **Education:** Software engineering degree — Higher Institute of Multimedia Arts of Manouba (ISAMM)  
 **Languages:** Arabic (native) · English (fluent) · French (intermediate)  
-**Open to:** Full-stack roles and collaboration on interesting products
+**Open to:** Full-stack roles, freelance projects and collaboration on interesting products
+
+## Featured project
+
+### [AutoCare Copilot](https://github.com/mohamed-ounissi/AI-integrated-full-stack-development) — AI assistant for support agents
+
+<a href="https://github.com/mohamed-ounissi/AI-integrated-full-stack-development">
+  <img src="assets/autocare-copilot.png" alt="AutoCare Copilot — ticket panel with a structured summary, and a chat answer grounded in the knowledge base" width="100%"/>
+</a>
+
+An assistant for auto-service support agents that answers from real data instead of guessing.
+
+- **Tool calling** — asks about a ticket, and the model looks up the actual record in MongoDB.
+- **RAG** — diagnostic-code and policy answers come from a knowledge base in MongoDB Atlas Vector Search, with the source doc cited.
+- **Structured output** — one click turns a ticket into a schema-validated summary.
+- **Multi-provider, measured** — Groq, Gemini and OpenRouter behind one interface, benchmarked on 10 fixed questions. Groq scored 10/10 at ~1.4 s per answer and became the default.
+
+`Next.js` `NestJS` `MongoDB Atlas Vector Search` `Vercel AI SDK` `RAG` `TypeScript`
+
+## More projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://stand-track.vercel.app"><img src="assets/standtrack.png" alt="StandTrack landing page"/></a>
+      <h3><a href="https://github.com/mohamed-ounissi/StandTrack">StandTrack</a> · <a href="https://stand-track.vercel.app">live app</a></h3>
+      Daily standup companion for developers: log tasks, blockers and questions during the day, then get an auto-formatted summary before the meeting. Dynamic meeting times and email reminders.
+      <br/><br/>
+      <code>TypeScript</code> <code>Next.js</code> <code>Node.js</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.youtube.com/watch?v=eJkak_rYYIM"><img src="assets/school-platform.jpg" alt="School administration platform dashboard"/></a>
+      <h3>School administration platform · <a href="https://www.youtube.com/watch?v=eJkak_rYYIM">demo</a></h3>
+      Microservices-based school management system with automatic timetable generation using OptaPlanner, containerized with Docker and deployed through a GitLab CI/CD pipeline.
+      <br/><br/>
+      <code>Angular</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Docker</code> <code>GitLab CI</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.youtube.com/watch?v=snkmWytzOWc"><img src="assets/asetap.jpg" alt="ASETAP sports association app"/></a>
+      <h3>ASETAP · <a href="https://www.youtube.com/watch?v=snkmWytzOWc">demo</a></h3>
+      Management application for a sports association, covering members, events and administration — designed and built end to end.
+      <br/><br/>
+      <code>React</code> <code>Express</code> <code>MongoDB</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mohamed-ounissi/MorbiketFinalProduct">Morbiket WebAR</a></h3>
+      Platform for creating augmented reality experiences that run directly in the browser, built during an internship at a visual design agency.
+      <br/><br/>
+      <code>React</code> <code>A-Frame</code> <code>AR.js</code> <code>Three.js</code>
+      <br/>
+      <h3><a href="https://github.com/mohamed-ounissi/React-native-project">React Native app</a></h3>
+      Mobile app with modular authentication, tab-based navigation and a scalable structure for API-driven dashboards and list/detail screens.
+      <br/><br/>
+      <code>React Native</code> <code>Expo</code> <code>TypeScript</code>
+    </td>
+  </tr>
+</table>
 
 ## Tech stack
 
@@ -55,66 +117,12 @@ providers against each other instead of picking one on reputation.
 | **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqubeserver&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
 | **Workflow** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
 
-## Featured projects
-
-### [AutoCare Copilot](https://github.com/mohamed-ounissi/AI-integrated-full-stack-development)
-
-AI assistant for auto-service support agents. It looks up real ticket records
-through tool calling instead of guessing, answers diagnostic-code and policy
-questions with RAG over MongoDB Atlas Vector Search (citing the source doc), and
-turns a ticket into a schema-validated summary in one click. Groq, Gemini and
-OpenRouter sit behind one interface, benchmarked with a small eval harness —
-Groq scored 10/10 at ~1.4 s per answer and became the default.
-
-`Next.js` `NestJS` `MongoDB Atlas Vector Search` `Vercel AI SDK` `RAG` `TypeScript`
-
-### [StandTrack](https://github.com/mohamed-ounissi/StandTrack) · [live app](https://stand-track.vercel.app)
-
-Daily standup companion for developers: log tasks, blockers and questions during
-the day, then get an auto-formatted summary before the meeting. Includes dynamic
-meeting times and email reminders.
-
-`TypeScript` `Next.js` `Node.js`
-
-### School administration platform · [demo](https://www.youtube.com/watch?v=eJkak_rYYIM)
-
-Microservices-based school management system with automatic timetable generation
-using OptaPlanner, containerized with Docker and deployed through a GitLab CI/CD
-pipeline.
-
-`Angular` `Spring Boot` `PostgreSQL` `Docker` `GitLab CI`
-
-### ASETAP · [demo](https://www.youtube.com/watch?v=snkmWytzOWc)
-
-Management application for a sports association, covering members, events and
-administration — designed and built end to end.
-
-`React` `Express` `MongoDB`
-
-### [Morbiket WebAR](https://github.com/mohamed-ounissi/MorbiketFinalProduct)
-
-Platform for creating augmented reality experiences that run directly in the
-browser, built during an internship at a visual design agency.
-
-`React` `A-Frame` `AR.js` `Three.js`
-
-### [React Native app](https://github.com/mohamed-ounissi/React-native-project)
-
-Mobile app with modular authentication, tab-based navigation and a scalable
-structure for API-driven dashboards and list/detail screens.
-
-`React Native` `Expo` `TypeScript`
-
 ## GitHub stats
 
 <p align="center">
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed-ounissi&theme=tokyonight" alt="Profile summary"/>
   <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamed-ounissi&theme=tokyonight" alt="Top languages by repository"/>
   <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamed-ounissi&theme=tokyonight" alt="Most used languages by commit"/>
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-ounissi&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity" alt="Contribution activity graph"/>
 </p>
 
 <details>
